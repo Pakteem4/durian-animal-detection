@@ -1,0 +1,5 @@
+train: multi_dataset/train/images
+val: multi_dataset/val/images
+
+nc: 2
+names: ['squirrel', 'bat','moth']

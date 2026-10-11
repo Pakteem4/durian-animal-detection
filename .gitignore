@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+.env
+**/.env
+__pycache__/
+.venv/
+venv/
+runs/
+Object_Detection/yolov3.weights
+Object_Detection/.DS_Store
